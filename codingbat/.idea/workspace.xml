@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="250ecbef-d34e-4832-8cec-4872f70888ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/MonkeyTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/out/production/MonkeyTroubleProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/MonkeyTroubleProject123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/out/production/MonkeyTroubleProject123/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/out/production/MonkeyTroubleProject123/MonkeyTroubleClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonkeyTroubleProject123/src/MonkeyTroubleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/SleepInProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/out/production/SleepInProject/CanFlyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/out/production/SleepInProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/out/production/SleepInProject/SleepInClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/src/CanFlyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SleepInProject/src/SleepInClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingbat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/warmup1/Diff21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/warmup1/ParrotTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/out/production/sumDoubleProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/out/production/sumDoubleProject/sumDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/src/sumDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDoubleProject/sumDoubleProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../txt/laws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/HelloClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/HelloClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Myi25qnmxQErFTsSqFgSrxfKmw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/navee/OneDrive/Desktop/GitHub/MyFirstHelloWorldProject"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250ecbef-d34e-4832-8cec-4872f70888ac" name="Changes" comment="" />
+      <created>1678746014695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678746014695</updated>
+    </task>
+    <servers />
+  </component>
+</project>
